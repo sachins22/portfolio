@@ -499,12 +499,12 @@
     width: 80%;
   }
   
-  .skills-content .right .Express::before {
+  .skills-content .right .MongoDB::before {
     width: 70%;
   }
   
-  .skills-content .right .MongoDB::before {
-    width: 60%;
+  .skills-content .right .React-Native::before {
+    width: 99%;
   }
   
   /*  Projects  */
